@@ -3,8 +3,7 @@ import './App.css';
 import {TaskType, Todolist} from './Todolist';
 import {v1} from "uuid";
 
-//greate
-//updete
+
 
 type TodolistsType={
     id: string
